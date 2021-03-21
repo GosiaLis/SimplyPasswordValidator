@@ -40,7 +40,7 @@ body {
 .icon{
     position: absolute;
     top: 85px;
-    animation: pulse 4s reverse ease-in-out;
+    animation: pulse 4s ease-in-out infinite;
 }
 
 label {
